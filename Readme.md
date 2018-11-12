@@ -1,0 +1,1 @@
+This is a sample Maven project to test [@w3c/epubcheck#859](https://github.com/w3c/epubcheck/issues/859)
